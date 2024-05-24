@@ -1,16 +1,20 @@
-## Hi there 👋
+#✨ Sobre Mim ✨
+💻 Desenvolverdor Web Full Stack Júnior | Trybe
+👩🏼‍💻 Cursando Análise e Desenvolvimento de Sistemas | Faculdade Descomplica
+💎 JavaScript|TypeScript|ReactJs|Kotlin|Android Studio
+💬 Me formei na escola de tecnologia Trybe onde aprendi FrontEnd, BackEnd e Android.
+Foram mais de 1500 horas de estudos em busca de conhecimentos. Agora inicio a faculdade para continuar meu aprendizado.
+📡 Estou a procura da minha primeira oportunidade de trabalho como Desenvolvedor Web
+📧 [devtatianemarinho@gmail.com](mailto:devtatianemarinho@gmail.com)
 
-<!--
-**TatianeMarinho/TatianeMarinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Redes Sociais:
+[LinkedIn](https://www.linkedin.com/in/seu_usuario)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Pilha de tecnologia:
+![GitHub](https://img.icons8.com/?size=100&id=WCL5hPLvhUjQ&format=png&color=000000)
+![HTML5](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
