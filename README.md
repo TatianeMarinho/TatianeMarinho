@@ -8,7 +8,7 @@ Foram mais de 1500 horas de estudos em busca de conhecimentos. Agora inicio a fa
 📧 [devtatianemarinho@gmail.com](mailto:devtatianemarinho@gmail.com)
 
 ## 🌐 Redes Sociais:
-[LinkedIn](https://www.linkedin.com/in/seu_usuario)
+[![LinkedIn]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whit](https://img.icons8.com/?size=100&id=13930&format=png&color=000000))]([https://www.instagram.com/seu_usuario](https://www.linkedin.com/in/seu_usuario)) 
 
 ## 💻 Pilha de tecnologia:
 [![GitHub](https://img.icons8.com/?size=100&id=WCL5hPLvhUjQ&format=png&color=000000)GitHub]
