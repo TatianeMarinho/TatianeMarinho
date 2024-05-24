@@ -11,7 +11,7 @@ Foram mais de 1500 horas de estudos em busca de conhecimentos. Agora inicio a fa
 [LinkedIn](https://www.linkedin.com/in/seu_usuario)
 
 ## 💻 Pilha de tecnologia:
-![GitHub](https://img.icons8.com/?size=100&id=WCL5hPLvhUjQ&format=png&color=000000)
+[![GitHub](https://img.icons8.com/?size=100&id=WCL5hPLvhUjQ&format=png&color=000000)GitHub]
 ![HTML5](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
