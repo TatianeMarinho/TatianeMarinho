@@ -1,8 +1,8 @@
 ## Tatiane Marinho<br>
 ## ✨ Sobre ✨
 💻 Desenvolverdor Web Full Stack Júnior | Trybe<br>
-👩🏼‍💻 Cursando Análise e Desenvolvimento de Sistemas | Faculdade Descomplica<br>
-💎 JavaScript|TypeScript|ReactJs|Kotlin|Android Studio<br>
+👩🏼‍💻 Cursando Análise e Desenvolvimento de Sistemas | Faculdade Unifatecie<br>
+💎 JavaScript|TypeScript|Flutter|Dart|Android Studio<br>
 💬 Me formei na escola de tecnologia Trybe onde aprendi FrontEnd, BackEnd e Android.<br>
 Foram mais de 1500 horas de estudos em busca de conhecimentos. Agora inicio a faculdade para continuar meu aprendizado.<br>
 📡 Estou a procura da minha primeira oportunidade de trabalho como Desenvolvedor Web<br>
