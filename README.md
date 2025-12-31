@@ -27,12 +27,13 @@ Aqui estão os hubs onde organizo minha evolução técnica:
 - 🌱 Atualmente mergulhando no ecossistema **Dart & Flutter**.
 - 🏗️ Focada em aprender **Clean Architecture** e **Gerenciamento de Estado (Bloc/Provider)**.
 - 🎓 Formada pela Trybe em Desenvolvimento de Software Full Stack.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIFATECIE.
 
 ---
 
 ### 📫 Vamos trocar uma ideia?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatianemarinho/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devtatianemarinho@gmail.com)
 
 ---
-*“Transformando café em código e ideias em aplicativos.”* ☕📱
+*“Transformando coca-cola em código e ideias em aplicativos.”* 🥤📱
