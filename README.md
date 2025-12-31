@@ -1,6 +1,6 @@
 # Olá, eu sou a Tatiane Marinho! 👋
 
-Desenvolvedora Full Stack formada pelo curso da Trybe. Atualmente cursando Análise e Desenvolvimento de Sistemas na UNIFATECIE e me especializando em Flutter e Dart.
+Desenvolvedora Full Stack Júnior.
 
 ---
 
