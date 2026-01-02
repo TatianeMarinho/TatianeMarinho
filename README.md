@@ -8,7 +8,7 @@ Desenvolvedora Full Stack Júnior.
 Aqui estão os hubs onde organizo minha evolução técnica:
 
 * **[📦 Projetos da Formação Trybe](https://github.com/TatianeMarinho/Projetos-do-curso-Trybe)**: Minha base sólida. Contém mais de 20 projetos em **Front-end (React/TS)**, **Back-end (Node/SQL)**, **CS (Python)** e **Android Nativo (Kotlin)**.
-* **[💙 Especialização Flutter & Dart]()**: (Em construção) Minha jornada atual focada em desenvolvimento multiplataforma, arquitetura limpa e alta performance mobile.
+* **[💙 Especialização Flutter & Dart](https://github.com/TatianeMarinho/projetos-flutter-dart)**: (Em construção) Minha jornada atual focada em desenvolvimento multiplataforma, arquitetura limpa e alta performance mobile.
 
 ---
 
